@@ -1,0 +1,175 @@
+[
+  {
+    "section": "Patient Information",
+    "fields": [
+      {
+        "fieldName": "Patient Full Name",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Date of Birth",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Gender",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Address",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Phone Number",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Email",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Insurance ID / Member ID",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Group Number",
+        "isProtected": true
+      }
+    ]
+  },
+  {
+    "section": "Insurance Information",
+    "fields": [
+      {
+        "fieldName": "Insurance Carrier Name",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Plan Type",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Policy Holder Name",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Policy Holder DOB",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Relationship to Patient",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Insurance Phone Number",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Eligibility Verification Number",
+        "isProtected": false
+      }
+    ]
+  },
+  {
+    "section": "Eligibility & Benefits",
+    "fields": [
+      {
+        "fieldName": "Coverage Start Date",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Coverage End Date",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Is Coverage Active?",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Primary or Secondary Insurance",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Deductible Amount",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Has Deductible Been Met?",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Copayment for Office Visit",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Coinsurance Rate",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Out-of-Pocket Maximum",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Referral Required?",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Prior Authorization Required?",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Out-of-Network Coverage Allowed?",
+        "isProtected": true
+      }
+    ]
+  },
+  {
+    "section": "Provider Information",
+    "fields": [
+      {
+        "fieldName": "Provider Name",
+        "isProtected": true
+      },
+      {
+        "fieldName": "NPI",
+        "isProtected": false
+      },
+      {
+        "fieldName": "Provider Phone",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Fax Number",
+        "isProtected": false
+      },
+      {
+        "fieldName": "Facility Name",
+        "isProtected": true
+      }
+    ]
+  },
+  {
+    "section": "Authorization and Notes",
+    "fields": [
+      {
+        "fieldName": "Prior Auth Number",
+        "isProtected": false
+      },
+      {
+        "fieldName": "Verification Date",
+        "isProtected": false
+      },
+      {
+        "fieldName": "Verification Time",
+        "isProtected": false
+      },
+      {
+        "fieldName": "Insurance Representative Name",
+        "isProtected": true
+      },
+      {
+        "fieldName": "Contact Notes / Additional Info",
+        "isProtected": true
+      }
+    ]
+  }
+]
