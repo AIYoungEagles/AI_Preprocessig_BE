@@ -1,6 +1,7 @@
 package com.eagles.demo.service;
 
-import com.eagles.demo.model.DocumentResponse;
+import com.eagles.demo.model.Document;
+import com.eagles.demo.model.Field;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -9,7 +10,7 @@ import java.util.List;
 public class DocumentValidationServiceImpl implements DocumentValidationService {
 
     @Override
-    public void validateDocuments(List<DocumentResponse> documents) {
+    public void validateDocuments(List<Document> documents) {
         // TODO implement as part of task 4
     }
 }
