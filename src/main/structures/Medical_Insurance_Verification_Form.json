@@ -1,0 +1,198 @@
+[
+  {
+    "fieldName": "Patient Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Sex",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Date of Birth (Patient)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Street Address",
+    "isProtected": true
+  },
+  {
+    "fieldName": "City",
+    "isProtected": true
+  },
+  {
+    "fieldName": "State",
+    "isProtected": true
+  },
+  {
+    "fieldName": "ZIP Code",
+    "isProtected": true
+  },
+  {
+    "fieldName": "SSN",
+    "isProtected": true
+  },
+  {
+    "fieldName": "E-Mail",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Home Phone",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Work Phone",
+    "isProtected": true
+  },
+  {
+    "fieldName": "ICD-9-CM Diagnosis Code(s)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Anticipated CPT Code(s) for Procedure(s)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Insurance Provider",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Phone (Insurance Provider)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Policy No.",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Group No.",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Insurance Policy is (Primary/Secondary)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Subscriber Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Date of Birth (Subscriber)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Subscriber Relationship to Patient",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Coverage Start Date",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Coverage End Date",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Plan Type",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Other (Plan Type)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Deductible",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Has Deductible Been Met?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Copayment",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Coinsurance",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Out-of-Pocket Limit",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Benefits",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Referral Necessary?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Prior Authorization Required?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Out-of-Network Coverage?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Out-of-Network Financial Responsibilities",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Verification Date",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Verification Time",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Insurance Rep.",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Phone / Ext. (Insurance Rep.)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Prior Auth. Phone",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Prior Auth. Fax",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Prior Auth. Contact",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Approval No.",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Referral Phone",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Referral Fax",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Referral Contact",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Notes",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Signature",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Print Name (Signer)",
+    "isProtected": true
+  }
+]
