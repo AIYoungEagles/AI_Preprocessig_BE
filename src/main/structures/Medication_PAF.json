@@ -1,0 +1,74 @@
+[
+  {
+    "fieldName": "Last Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "First Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "D.O.B.",
+    "isProtected": true
+  },
+  {
+    "fieldName": "ID Number",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Medicaid or Medicare selection",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Prescriber Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "NPI",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Specialty",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Phone Number (Prescriber)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Fax Number (Prescriber)",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Medication Requested (name, strength, quantity and directions)",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Estimated duration of therapy",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Diagnosis and pertinent clinical information",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Previous medications tried",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Outcome of previous treatment and/or reason for intolerance",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Duration of treatment with previous medication",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Physician Signature",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Date (Physician signature)",
+    "isProtected": false
+  }
+]

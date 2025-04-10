@@ -1,0 +1,150 @@
+[
+  {
+    "fieldName": "Patient Name (Last, First, MI)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Date of Birth",
+    "isProtected": true
+  },
+  {
+    "fieldName": "I.D. #",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Gender",
+    "isProtected": true
+  },
+  {
+    "fieldName": "EPSDT special service request",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Other Insurance",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Name of Carrier",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Job Related",
+    "isProtected": true
+  },
+  {
+    "fieldName": "MVA?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Is the member currently pregnant?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Requesting Provider Name",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Tax ID#",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Contact Person in Requesting Provider’s Office",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Telephone (Requesting Provider)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Fax (Requesting Provider)",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Medicaid Provider #",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Clinical Contact Person",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Phone (Clinical Contact)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Name of PCP",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Physician/Provider/Facility Requested",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Address (Facility)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Telephone (Facility)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Fax (Facility)",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Where services will be rendered",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Medicaid Provider # (Facility)",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Today's Date",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Tentative Date of Service/Admission",
+    "isProtected": false
+  },
+  {
+    "fieldName": "Were member school based services interrupted?",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Start Date",
+    "isProtected": true
+  },
+  {
+    "fieldName": "End Date",
+    "isProtected": true
+  },
+  {
+    "fieldName": "ICD-10 Codes",
+    "isProtected": true
+  },
+  {
+    "fieldName": "ICD-10 Description",
+    "isProtected": true
+  },
+  {
+    "fieldName": "CPT/HCPCS CODES",
+    "isProtected": true
+  },
+  {
+    "fieldName": "CPT/HCPCS Description",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Comments (List # Days/Visits/Units or if services are needed at discharge)",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Provider Signature",
+    "isProtected": true
+  },
+  {
+    "fieldName": "Date (Provider Signature)",
+    "isProtected": false
+  }
+]
