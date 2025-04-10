@@ -1,6 +1,6 @@
 package com.eagles.demo.service;
 
-import com.eagles.demo.dto.FileData;
+import com.eagles.demo.model.FileData;
 import jakarta.validation.Valid;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
 package com.eagles.demo.controller;
 
-import com.eagles.demo.dto.FileData;
+import com.eagles.demo.model.FileData;
 import com.eagles.demo.service.MagicService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -15,7 +15,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/api")
 public class EagleController {
-    private static final String PROCESS_ENDPOINT_PATH = "/document/process";
+    private static final String PROCESS_ENDPOINT_PATH = "/document/extract";
 
     private final MagicService service;
 

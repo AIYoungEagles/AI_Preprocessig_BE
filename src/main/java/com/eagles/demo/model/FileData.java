@@ -1,4 +1,4 @@
-package com.eagles.demo.dto;
+package com.eagles.demo.model;
 
 import com.eagles.demo.type.DOCUMENT_TYPE;
 import com.eagles.demo.validation.ValidJpg;
